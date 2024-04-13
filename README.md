@@ -4,3 +4,4 @@ Deployed link -----
 https://react-assignment-shivangi.netlify.app/
 
 Submitted by- Shivangi Indurakhya
+shivangi.indurakhya@gmail.com
